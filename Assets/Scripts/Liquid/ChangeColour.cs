@@ -40,6 +40,7 @@ public class ChangeColour : MonoBehaviour
     void Start()
     {
         objectRenderer = GetComponent<Renderer>();
+        objectRenderer.material.color = Color.white;
         currentColor = objectRenderer.material.color;
         collisionCount = 0;
     }

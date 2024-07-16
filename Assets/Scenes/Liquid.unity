@@ -323,6 +323,11 @@ PrefabInstance:
       propertyPath: CollisionModule.multiplyColliderForceByCollisionAngle
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3585288258283724061, guid: bda53601074489748b4681aa4d31cf2b,
+        type: 3}
+      propertyPath: m_IsKinematic
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3993647279658073743, guid: bda53601074489748b4681aa4d31cf2b,
         type: 3}
       propertyPath: m_Name
@@ -6571,10 +6576,15 @@ PrefabInstance:
       propertyPath: CollisionModule.multiplyColliderForceByCollisionAngle
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3585288258283724061, guid: bda53601074489748b4681aa4d31cf2b,
+        type: 3}
+      propertyPath: m_IsKinematic
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3993647279658073743, guid: bda53601074489748b4681aa4d31cf2b,
         type: 3}
       propertyPath: m_Name
-      value: Green
+      value: Blue
       objectReference: {fileID: 0}
     - target: {fileID: 5422798597637841193, guid: bda53601074489748b4681aa4d31cf2b,
         type: 3}
@@ -7294,10 +7304,15 @@ PrefabInstance:
       propertyPath: CollisionModule.multiplyColliderForceByCollisionAngle
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3585288258283724061, guid: bda53601074489748b4681aa4d31cf2b,
+        type: 3}
+      propertyPath: m_IsKinematic
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3993647279658073743, guid: bda53601074489748b4681aa4d31cf2b,
         type: 3}
       propertyPath: m_Name
-      value: Blue
+      value: Green
       objectReference: {fileID: 0}
     - target: {fileID: 5422798597637841193, guid: bda53601074489748b4681aa4d31cf2b,
         type: 3}
