@@ -69,7 +69,6 @@ public class Pour : MonoBehaviour
     {
         if (liquid != null)
         {
-            Debug.Log(liquid.isPlaying);
             Vector3 rotation = transform.forward;
 
             if (Vector3.Angle(Vector3.down, transform.forward) <= thresholdAngle)

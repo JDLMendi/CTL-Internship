@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Empty
+  m_Name: Red
   m_Shader: {fileID: -6465566751694194690, guid: fe16cbb0094aeba4ab54f095dbafcc18,
     type: 3}
   m_Parent: {fileID: 0}
@@ -63,8 +63,9 @@ Material:
     - _QueueOffset: 0
     - _Rim_Power: 1.14
     m_Colors:
-    - _BottomColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BottomColor: {r: 0, g: 0.822786, b: 0.06662595, a: 1}
+    - _Colour: {r: 1, g: 0.00000012715658, b: 0, a: 1}
     - _FoamColor: {r: 0.2850213, g: 0.990566, b: 0.7492778, a: 1}
-    - _Rim_Color: {r: 0.693879, g: 1, b: 0.32547167, a: 1}
-    - _TopColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Rim_Color: {r: 1, g: 1, b: 1, a: 1}
+    - _TopColor: {r: 0, g: 0.8235294, b: 0.0660861, a: 1}
   m_BuildTextureStacks: []
