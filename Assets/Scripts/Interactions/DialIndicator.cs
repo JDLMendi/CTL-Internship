@@ -18,8 +18,6 @@ public class DialIndicator : MonoBehaviour
     void Update()
     {
         dialValue = dial.transform.rotation.eulerAngles.y;
-        Debug.Log("Dial Rotation: " + dialValue);
-
         float normalisedRotation = dialValue/360f;
         Color newColor = Color.Lerp(Color.white, Color.black, normalisedRotation);
 
